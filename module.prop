@@ -1,0 +1,7 @@
+id=sample_module
+name=Useless module
+version=v1.0.0
+versionCode=1
+author=Woomymy
+description=Just some random demo module, nothing interesting to see here
+updateJson=https://github.com/Woomymy/Magisk-Module-GH-Actions-Template/releases/latest/download/update.json
